@@ -82,7 +82,7 @@ El sistema está basado en un **motor central de decisiones** que:
 
 ---
 
-## 🤖 Asistente IA (100% Local y Gratis)
+## 🤖 Asistente IA (100% Local)
 
 El sistema integra un asistente inteligente basado en:
 
