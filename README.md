@@ -1,6 +1,6 @@
 # 🧠 Compras Smart App
 
-### AI-Powered Procurement & Cost Optimization Platform
+### Plataforma de compras y optimización de costes impulsada por IA
 
 Aplicación web orientada a la **toma de decisiones estratégicas en compras**, diseñada para transformar el proceso tradicional en un sistema **inteligente, basado en datos y asistido por IA**.
 
